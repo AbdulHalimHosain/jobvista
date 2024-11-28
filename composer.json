@@ -1,0 +1,16 @@
+{
+    "name": "abdulhalimhosain/jobvista",
+    "description": "Job listing application",
+    "authors": [
+        {
+        "name": "abdulhalimhosain",
+        "email": "proggahasan472118@gmail.com"
+    }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+}
+}
